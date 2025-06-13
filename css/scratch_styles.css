@@ -53,11 +53,11 @@ ul {
 
 .video-container {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 45%;
     /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 80%;
     margin: 0 auto;
 }
 
